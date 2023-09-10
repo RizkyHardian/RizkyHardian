@@ -4,7 +4,7 @@ Yo, Hi, My Name is Rizky Hardian Nor. I'm just Newbie Developer from Indonesia
 
 U can know more about me in here :
 - 📫 Main me at : <a href="mailto:trundul19@gmail.com">trundul19@gmail.com</a>
-- 🔗 Connect to my <a href="https://www.linkedin.com/in/rizky-hardian">LinkedIn/a>
+- 🔗 Connect to my <a href="https://www.linkedin.com/in/rizky-hardian">LinkedIn</a>
 
 
 <h3 align="left"> U can view my stats in here!!</h3>
